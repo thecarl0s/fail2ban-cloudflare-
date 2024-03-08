@@ -1,5 +1,3 @@
-Integrate Fail2ban with Cloudflare API (V4) and iptables to mitigate HTTP flooding attacks using Nginx.
-
 <p dir="auto">Requirements:</p>
 <ol dir="auto">
 <li>Nginx</li>
